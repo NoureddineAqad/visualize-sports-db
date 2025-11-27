@@ -1,0 +1,1592 @@
+{
+  "competition_name": "Champions League 2025-26",
+  "current_matchday": 5,
+  "teams": {
+    "Bayern München": {
+      "name": "Bayern München",
+      "country": "GER",
+      "matches_played": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 15,
+      "goals_against": 6,
+      "points": 12,
+      "goal_difference": 9
+    },
+    "Arsenal": {
+      "name": "Arsenal",
+      "country": "ENG",
+      "matches_played": 5,
+      "wins": 5,
+      "draws": 0,
+      "losses": 0,
+      "goals_for": 14,
+      "goals_against": 1,
+      "points": 15,
+      "goal_difference": 13
+    },
+    "Inter": {
+      "name": "Inter",
+      "country": "ITA",
+      "matches_played": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 12,
+      "goals_against": 3,
+      "points": 12,
+      "goal_difference": 9
+    },
+    "Man City": {
+      "name": "Man City",
+      "country": "ENG",
+      "matches_played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 10,
+      "goals_against": 5,
+      "points": 10,
+      "goal_difference": 5
+    },
+    "PSG": {
+      "name": "PSG",
+      "country": "FRA",
+      "matches_played": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 19,
+      "goals_against": 8,
+      "points": 12,
+      "goal_difference": 11
+    },
+    "Newcastle United": {
+      "name": "Newcastle United",
+      "country": "ENG",
+      "matches_played": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 11,
+      "goals_against": 4,
+      "points": 9,
+      "goal_difference": 7
+    },
+    "Real Madrid": {
+      "name": "Real Madrid",
+      "country": "ESP",
+      "matches_played": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 12,
+      "goals_against": 5,
+      "points": 12,
+      "goal_difference": 7
+    },
+    "Liverpool": {
+      "name": "Liverpool",
+      "country": "ENG",
+      "matches_played": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 10,
+      "goals_against": 8,
+      "points": 9,
+      "goal_difference": 2
+    },
+    "Galatasaray": {
+      "name": "Galatasaray",
+      "country": "TUR",
+      "matches_played": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 8,
+      "goals_against": 7,
+      "points": 9,
+      "goal_difference": 1
+    },
+    "Tottenham": {
+      "name": "Tottenham",
+      "country": "ENG",
+      "matches_played": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 10,
+      "goals_against": 7,
+      "points": 8,
+      "goal_difference": 3
+    },
+    "Barcelona": {
+      "name": "Barcelona",
+      "country": "ESP",
+      "matches_played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 12,
+      "goals_against": 10,
+      "points": 7,
+      "goal_difference": 2
+    },
+    "Chelsea": {
+      "name": "Chelsea",
+      "country": "ENG",
+      "matches_played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 12,
+      "goals_against": 6,
+      "points": 10,
+      "goal_difference": 6
+    },
+    "Sporting CP": {
+      "name": "Sporting CP",
+      "country": "POR",
+      "matches_played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 11,
+      "goals_against": 5,
+      "points": 10,
+      "goal_difference": 6
+    },
+    "BvB Dortmund": {
+      "name": "BvB Dortmund",
+      "country": "GER",
+      "matches_played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 17,
+      "goals_against": 11,
+      "points": 10,
+      "goal_difference": 6
+    },
+    "Qarabag": {
+      "name": "Qarabag",
+      "country": "AZE",
+      "matches_played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 8,
+      "goals_against": 9,
+      "points": 7,
+      "goal_difference": -1
+    },
+    "Atalanta": {
+      "name": "Atalanta",
+      "country": "ITA",
+      "matches_played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 6,
+      "goals_against": 5,
+      "points": 10,
+      "goal_difference": 1
+    },
+    "Atletico Madrid": {
+      "name": "Atletico Madrid",
+      "country": "ESP",
+      "matches_played": 5,
+      "wins": 3,
+      "draws": 0,
+      "losses": 2,
+      "goals_for": 12,
+      "goals_against": 10,
+      "points": 9,
+      "goal_difference": 2
+    },
+    "PSV Eindhoven": {
+      "name": "PSV Eindhoven",
+      "country": "NED",
+      "matches_played": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 13,
+      "goals_against": 8,
+      "points": 8,
+      "goal_difference": 5
+    },
+    "AS Monaco": {
+      "name": "AS Monaco",
+      "country": "FRA",
+      "matches_played": 5,
+      "wins": 1,
+      "draws": 3,
+      "losses": 1,
+      "goals_for": 6,
+      "goals_against": 8,
+      "points": 6,
+      "goal_difference": -2
+    },
+    "Pafos": {
+      "name": "Pafos",
+      "country": "CYP",
+      "matches_played": 5,
+      "wins": 1,
+      "draws": 3,
+      "losses": 1,
+      "goals_for": 4,
+      "goals_against": 7,
+      "points": 6,
+      "goal_difference": -3
+    },
+    "Bayer Leverkusen": {
+      "name": "Bayer Leverkusen",
+      "country": "GER",
+      "matches_played": 5,
+      "wins": 2,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 8,
+      "goals_against": 10,
+      "points": 8,
+      "goal_difference": -2
+    },
+    "Club Brugge": {
+      "name": "Club Brugge",
+      "country": "BEL",
+      "matches_played": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 8,
+      "goals_against": 13,
+      "points": 4,
+      "goal_difference": -5
+    },
+    "Eintracht Frankfürt": {
+      "name": "Eintracht Frankfürt",
+      "country": "GER",
+      "matches_played": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 7,
+      "goals_against": 14,
+      "points": 4,
+      "goal_difference": -7
+    },
+    "SSC Napoli": {
+      "name": "SSC Napoli",
+      "country": "ITA",
+      "matches_played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 6,
+      "goals_against": 9,
+      "points": 7,
+      "goal_difference": -3
+    },
+    "Olympique Marseille": {
+      "name": "Olympique Marseille",
+      "country": "FRA",
+      "matches_played": 5,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "goals_for": 8,
+      "goals_against": 6,
+      "points": 6,
+      "goal_difference": 2
+    },
+    "Juventus": {
+      "name": "Juventus",
+      "country": "ITA",
+      "matches_played": 5,
+      "wins": 1,
+      "draws": 3,
+      "losses": 1,
+      "goals_for": 10,
+      "goals_against": 10,
+      "points": 6,
+      "goal_difference": 0
+    },
+    "Athletic Bilbao": {
+      "name": "Athletic Bilbao",
+      "country": "ESP",
+      "matches_played": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 4,
+      "goals_against": 9,
+      "points": 4,
+      "goal_difference": -5
+    },
+    "Union Saint-Gilloise": {
+      "name": "Union Saint-Gilloise",
+      "country": "BEL",
+      "matches_played": 5,
+      "wins": 2,
+      "draws": 0,
+      "losses": 3,
+      "goals_for": 5,
+      "goals_against": 12,
+      "points": 6,
+      "goal_difference": -7
+    },
+    "BodoGlimt": {
+      "name": "BodoGlimt",
+      "country": "NOR",
+      "matches_played": 5,
+      "wins": 0,
+      "draws": 2,
+      "losses": 3,
+      "goals_for": 7,
+      "goals_against": 11,
+      "points": 2,
+      "goal_difference": -4
+    },
+    "Slavia Prague": {
+      "name": "Slavia Prague",
+      "country": "TCH",
+      "matches_played": 5,
+      "wins": 0,
+      "draws": 3,
+      "losses": 2,
+      "goals_for": 2,
+      "goals_against": 8,
+      "points": 3,
+      "goal_difference": -6
+    },
+    "Olympiacos": {
+      "name": "Olympiacos",
+      "country": "GRE",
+      "matches_played": 5,
+      "wins": 0,
+      "draws": 2,
+      "losses": 3,
+      "goals_for": 5,
+      "goals_against": 13,
+      "points": 2,
+      "goal_difference": -8
+    },
+    "Villarreal": {
+      "name": "Villarreal",
+      "country": "ESP",
+      "matches_played": 5,
+      "wins": 0,
+      "draws": 1,
+      "losses": 4,
+      "goals_for": 2,
+      "goals_against": 10,
+      "points": 1,
+      "goal_difference": -8
+    },
+    "Copenhagen": {
+      "name": "Copenhagen",
+      "country": "DEN",
+      "matches_played": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 7,
+      "goals_against": 14,
+      "points": 4,
+      "goal_difference": -7
+    },
+    "Kairat": {
+      "name": "Kairat",
+      "country": "KAZ",
+      "matches_played": 5,
+      "wins": 0,
+      "draws": 1,
+      "losses": 4,
+      "goals_for": 4,
+      "goals_against": 14,
+      "points": 1,
+      "goal_difference": -10
+    },
+    "SL Benfica": {
+      "name": "SL Benfica",
+      "country": "POR",
+      "matches_played": 5,
+      "wins": 1,
+      "draws": 0,
+      "losses": 4,
+      "goals_for": 4,
+      "goals_against": 8,
+      "points": 3,
+      "goal_difference": -4
+    },
+    "Ajax Amsterdam": {
+      "name": "Ajax Amsterdam",
+      "country": "NED",
+      "matches_played": 5,
+      "wins": 0,
+      "draws": 0,
+      "losses": 5,
+      "goals_for": 1,
+      "goals_against": 16,
+      "points": 0,
+      "goal_difference": -15
+    }
+  },
+  "matches": [
+    {
+      "home_team": "Athletic Bilbao",
+      "away_team": "Arsenal",
+      "matchday": 1,
+      "home_score": 0,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "PSV Eindhoven",
+      "away_team": "Union Saint-Gilloise",
+      "matchday": 1,
+      "home_score": 1,
+      "away_score": 3,
+      "played": true
+    },
+    {
+      "home_team": "Juventus",
+      "away_team": "BvB Dortmund",
+      "matchday": 1,
+      "home_score": 4,
+      "away_score": 4,
+      "played": true
+    },
+    {
+      "home_team": "Real Madrid",
+      "away_team": "Olympique Marseille",
+      "matchday": 1,
+      "home_score": 2,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "SL Benfica",
+      "away_team": "Qarabag",
+      "matchday": 1,
+      "home_score": 2,
+      "away_score": 3,
+      "played": true
+    },
+    {
+      "home_team": "Tottenham",
+      "away_team": "Villarreal",
+      "matchday": 1,
+      "home_score": 1,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Olympiacos",
+      "away_team": "Pafos",
+      "matchday": 1,
+      "home_score": 0,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Slavia Prague",
+      "away_team": "Bodo/Glimt",
+      "matchday": 1,
+      "home_score": 2,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Ajax Amsterdam",
+      "away_team": "Inter",
+      "matchday": 1,
+      "home_score": 0,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Bayern München",
+      "away_team": "Chelsea",
+      "matchday": 1,
+      "home_score": 3,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Liverpool",
+      "away_team": "Atletico Madrid",
+      "matchday": 1,
+      "home_score": 3,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "PSG",
+      "away_team": "Atalanta",
+      "matchday": 1,
+      "home_score": 4,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Club Brugge",
+      "away_team": "AS Monaco",
+      "matchday": 1,
+      "home_score": 4,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Copenhagen",
+      "away_team": "Bayer Leverkusen",
+      "matchday": 1,
+      "home_score": 2,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Eintracht Frankfürt",
+      "away_team": "Galatasaray",
+      "matchday": 1,
+      "home_score": 5,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Man City",
+      "away_team": "SSC Napoli",
+      "matchday": 1,
+      "home_score": 2,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Newcastle United",
+      "away_team": "Barcelona",
+      "matchday": 1,
+      "home_score": 1,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Sporting CP",
+      "away_team": "Kairat",
+      "matchday": 1,
+      "home_score": 4,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Atalanta",
+      "away_team": "Club Brugge",
+      "matchday": 2,
+      "home_score": 2,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Kairat",
+      "away_team": "Real Madrid",
+      "matchday": 2,
+      "home_score": 0,
+      "away_score": 5,
+      "played": true
+    },
+    {
+      "home_team": "Atletico Madrid",
+      "away_team": "Eintracht Frankfürt",
+      "matchday": 2,
+      "home_score": 5,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Chelsea",
+      "away_team": "SL Benfica",
+      "matchday": 2,
+      "home_score": 1,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Inter",
+      "away_team": "Slavia Prague",
+      "matchday": 2,
+      "home_score": 3,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Bodo/Glimt",
+      "away_team": "Tottenham",
+      "matchday": 2,
+      "home_score": 2,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Galatasaray",
+      "away_team": "Liverpool",
+      "matchday": 2,
+      "home_score": 1,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Olympique Marseille",
+      "away_team": "Ajax Amsterdam",
+      "matchday": 2,
+      "home_score": 4,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Pafos",
+      "away_team": "Bayern München",
+      "matchday": 2,
+      "home_score": 1,
+      "away_score": 5,
+      "played": true
+    },
+    {
+      "home_team": "Qarabag",
+      "away_team": "Copenhagen",
+      "matchday": 2,
+      "home_score": 2,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Union Saint-Gilloise",
+      "away_team": "Newcastle United",
+      "matchday": 2,
+      "home_score": 0,
+      "away_score": 4,
+      "played": true
+    },
+    {
+      "home_team": "Arsenal",
+      "away_team": "Olympiacos",
+      "matchday": 2,
+      "home_score": 2,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "AS Monaco",
+      "away_team": "Man City",
+      "matchday": 2,
+      "home_score": 2,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Bayer Leverkusen",
+      "away_team": "PSV Eindhoven",
+      "matchday": 2,
+      "home_score": 1,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "BvB Dortmund",
+      "away_team": "Athletic Bilbao",
+      "matchday": 2,
+      "home_score": 4,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Barcelona",
+      "away_team": "PSG",
+      "matchday": 2,
+      "home_score": 1,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "SSC Napoli",
+      "away_team": "Sporting CP",
+      "matchday": 2,
+      "home_score": 2,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Villarreal",
+      "away_team": "Juventus",
+      "matchday": 2,
+      "home_score": 2,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Barcelona",
+      "away_team": "Olympiacos",
+      "matchday": 3,
+      "home_score": 6,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Kairat",
+      "away_team": "Pafos",
+      "matchday": 3,
+      "home_score": 0,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Arsenal",
+      "away_team": "Atletico Madrid",
+      "matchday": 3,
+      "home_score": 4,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Bayer Leverkusen",
+      "away_team": "PSG",
+      "matchday": 3,
+      "home_score": 2,
+      "away_score": 7,
+      "played": true
+    },
+    {
+      "home_team": "Copenhagen",
+      "away_team": "BvB Dortmund",
+      "matchday": 3,
+      "home_score": 2,
+      "away_score": 4,
+      "played": true
+    },
+    {
+      "home_team": "Newcastle United",
+      "away_team": "SL Benfica",
+      "matchday": 3,
+      "home_score": 3,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "PSV Eindhoven",
+      "away_team": "SSC Napoli",
+      "matchday": 3,
+      "home_score": 6,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Union Saint-Gilloise",
+      "away_team": "Inter",
+      "matchday": 3,
+      "home_score": 0,
+      "away_score": 4,
+      "played": true
+    },
+    {
+      "home_team": "Villarreal",
+      "away_team": "Man City",
+      "matchday": 3,
+      "home_score": 0,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Athletic Bilbao",
+      "away_team": "Qarabag",
+      "matchday": 3,
+      "home_score": 3,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Galatasaray",
+      "away_team": "Bodo/Glimt",
+      "matchday": 3,
+      "home_score": 3,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "AS Monaco",
+      "away_team": "Tottenham",
+      "matchday": 3,
+      "home_score": 0,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Atalanta",
+      "away_team": "Slavia Prague",
+      "matchday": 3,
+      "home_score": 0,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Chelsea",
+      "away_team": "Ajax Amsterdam",
+      "matchday": 3,
+      "home_score": 5,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Eintracht Frankfürt",
+      "away_team": "Liverpool",
+      "matchday": 3,
+      "home_score": 1,
+      "away_score": 5,
+      "played": true
+    },
+    {
+      "home_team": "Bayern München",
+      "away_team": "Club Brugge",
+      "matchday": 3,
+      "home_score": 4,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Real Madrid",
+      "away_team": "Juventus",
+      "matchday": 3,
+      "home_score": 1,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Sporting CP",
+      "away_team": "Olympique Marseille",
+      "matchday": 3,
+      "home_score": 2,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Slavia Prague",
+      "away_team": "Arsenal",
+      "matchday": 4,
+      "home_score": 0,
+      "away_score": 3,
+      "played": true
+    },
+    {
+      "home_team": "SSC Napoli",
+      "away_team": "Eintracht Frankfürt",
+      "matchday": 4,
+      "home_score": 0,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Atletico Madrid",
+      "away_team": "Union Saint-Gilloise",
+      "matchday": 4,
+      "home_score": 3,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Bodo/Glimt",
+      "away_team": "AS Monaco",
+      "matchday": 4,
+      "home_score": 0,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Juventus",
+      "away_team": "Sporting CP",
+      "matchday": 4,
+      "home_score": 1,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Liverpool",
+      "away_team": "Real Madrid",
+      "matchday": 4,
+      "home_score": 1,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Olympiacos",
+      "away_team": "PSV Eindhoven",
+      "matchday": 4,
+      "home_score": 1,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "PSG",
+      "away_team": "Bayern München",
+      "matchday": 4,
+      "home_score": 1,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Tottenham",
+      "away_team": "Copenhagen",
+      "matchday": 4,
+      "home_score": 4,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Pafos",
+      "away_team": "Villarreal",
+      "matchday": 4,
+      "home_score": 1,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Qarabag",
+      "away_team": "Chelsea",
+      "matchday": 4,
+      "home_score": 2,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Ajax Amsterdam",
+      "away_team": "Galatasaray",
+      "matchday": 4,
+      "home_score": 0,
+      "away_score": 3,
+      "played": true
+    },
+    {
+      "home_team": "Club Brugge",
+      "away_team": "Barcelona",
+      "matchday": 4,
+      "home_score": 3,
+      "away_score": 3,
+      "played": true
+    },
+    {
+      "home_team": "Inter",
+      "away_team": "Kairat",
+      "matchday": 4,
+      "home_score": 2,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Man City",
+      "away_team": "BvB Dortmund",
+      "matchday": 4,
+      "home_score": 4,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Newcastle United",
+      "away_team": "Athletic Bilbao",
+      "matchday": 4,
+      "home_score": 2,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Olympique Marseille",
+      "away_team": "Atalanta",
+      "matchday": 4,
+      "home_score": 0,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "SL Benfica",
+      "away_team": "Bayer Leverkusen",
+      "matchday": 4,
+      "home_score": 0,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Ajax Amsterdam",
+      "away_team": "SL Benfica",
+      "matchday": 5,
+      "home_score": 0,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Galatasaray",
+      "away_team": "Union Saint-Gilloise",
+      "matchday": 5,
+      "home_score": 0,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "BvB Dortmund",
+      "away_team": "Villarreal",
+      "matchday": 5,
+      "home_score": 4,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Chelsea",
+      "away_team": "Barcelona",
+      "matchday": 5,
+      "home_score": 3,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Bodo/Glimt",
+      "away_team": "Juventus",
+      "matchday": 5,
+      "home_score": 2,
+      "away_score": 3,
+      "played": true
+    },
+    {
+      "home_team": "Man City",
+      "away_team": "Bayer Leverkusen",
+      "matchday": 5,
+      "home_score": 0,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Olympique Marseille",
+      "away_team": "Newcastle United",
+      "matchday": 5,
+      "home_score": 2,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Slavia Prague",
+      "away_team": "Athletic Bilbao",
+      "matchday": 5,
+      "home_score": 0,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "SSC Napoli",
+      "away_team": "Qarabag",
+      "matchday": 5,
+      "home_score": 2,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Copenhagen",
+      "away_team": "Kairat",
+      "matchday": 5,
+      "home_score": 3,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Pafos",
+      "away_team": "AS Monaco",
+      "matchday": 5,
+      "home_score": 2,
+      "away_score": 2,
+      "played": true
+    },
+    {
+      "home_team": "Arsenal",
+      "away_team": "Bayern München",
+      "matchday": 5,
+      "home_score": 3,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Atletico Madrid",
+      "away_team": "Inter",
+      "matchday": 5,
+      "home_score": 2,
+      "away_score": 1,
+      "played": true
+    },
+    {
+      "home_team": "Eintracht Frankfürt",
+      "away_team": "Atalanta",
+      "matchday": 5,
+      "home_score": 0,
+      "away_score": 3,
+      "played": true
+    },
+    {
+      "home_team": "Liverpool",
+      "away_team": "PSV Eindhoven",
+      "matchday": 5,
+      "home_score": 1,
+      "away_score": 4,
+      "played": true
+    },
+    {
+      "home_team": "Olympiacos",
+      "away_team": "Real Madrid",
+      "matchday": 5,
+      "home_score": 3,
+      "away_score": 4,
+      "played": true
+    },
+    {
+      "home_team": "PSG",
+      "away_team": "Tottenham",
+      "matchday": 5,
+      "home_score": 5,
+      "away_score": 3,
+      "played": true
+    },
+    {
+      "home_team": "Sporting CP",
+      "away_team": "Club Brugge",
+      "matchday": 5,
+      "home_score": 3,
+      "away_score": 0,
+      "played": true
+    },
+    {
+      "home_team": "Kairat",
+      "away_team": "Olympiacos",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Bayern München",
+      "away_team": "Sporting CP",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "AS Monaco",
+      "away_team": "Galatasaray",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Atalanta",
+      "away_team": "Chelsea",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Barcelona",
+      "away_team": "Eintracht Frankfürt",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Inter",
+      "away_team": "Liverpool",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "PSV Eindhoven",
+      "away_team": "Atletico Madrid",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Union Saint-Gilloise",
+      "away_team": "Olympique Marseille",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Tottenham",
+      "away_team": "Slavia Prague",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Qarabag",
+      "away_team": "Ajax Amsterdam",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Villarreal",
+      "away_team": "Copenhagen",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Athletic Bilbao",
+      "away_team": "PSG",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Newcastle United",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "BvB Dortmund",
+      "away_team": "Bodo/Glimt",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Club Brugge",
+      "away_team": "Arsenal",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Juventus",
+      "away_team": "Pafos",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Real Madrid",
+      "away_team": "Man City",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "SL Benfica",
+      "away_team": "SSC Napoli",
+      "matchday": 6,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Kairat",
+      "away_team": "Club Brugge",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Bodo/Glimt",
+      "away_team": "Man City",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Copenhagen",
+      "away_team": "SSC Napoli",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Inter",
+      "away_team": "Arsenal",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Olympiacos",
+      "away_team": "Bayer Leverkusen",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Real Madrid",
+      "away_team": "AS Monaco",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Sporting CP",
+      "away_team": "PSG",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Tottenham",
+      "away_team": "BvB Dortmund",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Villarreal",
+      "away_team": "Ajax Amsterdam",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Galatasaray",
+      "away_team": "Atletico Madrid",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Qarabag",
+      "away_team": "Eintracht Frankfürt",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Atalanta",
+      "away_team": "Athletic Bilbao",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Chelsea",
+      "away_team": "Pafos",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Bayern München",
+      "away_team": "Union Saint-Gilloise",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Juventus",
+      "away_team": "SL Benfica",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Newcastle United",
+      "away_team": "PSV Eindhoven",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Olympique Marseille",
+      "away_team": "Liverpool",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Slavia Prague",
+      "away_team": "Barcelona",
+      "matchday": 7,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Ajax Amsterdam",
+      "away_team": "Olympiacos",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Arsenal",
+      "away_team": "Kairat",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "AS Monaco",
+      "away_team": "Juventus",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Athletic Bilbao",
+      "away_team": "Sporting CP",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Atletico Madrid",
+      "away_team": "Bodo/Glimt",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Villarreal",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "BvB Dortmund",
+      "away_team": "Inter",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Club Brugge",
+      "away_team": "Olympique Marseille",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Eintracht Frankfürt",
+      "away_team": "Tottenham",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Barcelona",
+      "away_team": "Copenhagen",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Liverpool",
+      "away_team": "Qarabag",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Man City",
+      "away_team": "Galatasaray",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Pafos",
+      "away_team": "Slavia Prague",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "PSG",
+      "away_team": "Newcastle United",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "PSV Eindhoven",
+      "away_team": "Bayern München",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "Union Saint-Gilloise",
+      "away_team": "Atalanta",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "SL Benfica",
+      "away_team": "Real Madrid",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    },
+    {
+      "home_team": "SSC Napoli",
+      "away_team": "Chelsea",
+      "matchday": 8,
+      "home_score": null,
+      "away_score": null,
+      "played": false
+    }
+  ]
+}
